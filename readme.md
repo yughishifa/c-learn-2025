@@ -1,4 +1,4 @@
 "Mencoba git"
-Nama: Yughi Shifa Linafusil Mugi Hidayah \n
-NIM: 607062530004 \n
-Divisi: Backend \n
+Nama: Yughi Shifa Linafusil Mugi Hidayah
+NIM: 607062530004
+Divisi: Backend
